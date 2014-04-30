@@ -2,12 +2,11 @@ from db import Repository, UserNotFoundError, SQLError
 
 
 def display_user():
-    #r = Repository()
-    with Repository() as repo:
+    r = Repository()
+    with r:
         user_id_text = input('Who do you want to find? ')
         the_id = int(user_id_text)
-        u = repo.find_user(the_id)
-        print(u)
+        u = r.find_user(the_id)
         print("Cool you found {}".format(u.name))
 
 
