@@ -27,7 +27,7 @@ def run():
                 t = summary_data[zip]
                 n = t[0] + 1
                 # assume that is rolling average
-                p = t[1] * t[0]-1/t[0] + float(d['price'])/t[0]
+                p = t[1] * (t[0]-1)/t[0] + float(d['price'])/t[0]
                 summary_data[zip] = (n, p)
             else:
                 summary_data[zip] = (1, float(d['price']))
