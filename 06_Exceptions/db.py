@@ -28,7 +28,7 @@ class Repository:
         self.clean_up()
 
     def __enter__(self):
-        pass
+        return self
 
 
 
