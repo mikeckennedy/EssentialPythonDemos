@@ -1,0 +1,6 @@
+<div metal:use-macro="view.layout">
+    <div metal:fill-slot="content">
+              <div>This is post ${title}</div>
+
+    </div>
+</div>
