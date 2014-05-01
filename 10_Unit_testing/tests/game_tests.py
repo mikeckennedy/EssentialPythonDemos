@@ -5,6 +5,15 @@ from app.game import Game
 
 class GameTests(unittest.TestCase):
 
+    @classmethod
+    def setUpClass(cls):
+        print("Setting up class")
+
+    def setUp(self):
+        print("Setting up instance")
+
+
+
     def test_can_create_empty_game(self):
         #Arrange
         g = Game()
