@@ -1,0 +1,9 @@
+
+.post .title {
+    font-size: 24px;
+    padding: 10px;
+}
+
+.post .published {
+    color: gray;
+}
