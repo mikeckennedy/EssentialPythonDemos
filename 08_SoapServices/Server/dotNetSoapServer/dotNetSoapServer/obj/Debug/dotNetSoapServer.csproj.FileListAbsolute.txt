@@ -1,0 +1,6 @@
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\dotNetSoapServer\bin\dotNetSoapServer.dll.config
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\dotNetSoapServer\bin\dotNetSoapServer.dll
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\dotNetSoapServer\bin\dotNetSoapServer.pdb
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\dotNetSoapServer\obj\Debug\dotNetSoapServer.csprojResolveAssemblyReference.cache
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\dotNetSoapServer\obj\Debug\dotNetSoapServer.dll
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\dotNetSoapServer\obj\Debug\dotNetSoapServer.pdb

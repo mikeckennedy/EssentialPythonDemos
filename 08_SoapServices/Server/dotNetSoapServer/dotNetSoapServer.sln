@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotNetSoapServer", "dotNetSoapServer\dotNetSoapServer.csproj", "{108EAABA-F120-4107-AA9E-3AAE333B0838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clientapp", "clientapp\clientapp.csproj", "{1250E4A6-15C1-4FEC-93AF-91BECA26D4FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client2", "client2\client2.csproj", "{A76C5169-C1B7-4E85-875F-184580B79325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{108EAABA-F120-4107-AA9E-3AAE333B0838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{108EAABA-F120-4107-AA9E-3AAE333B0838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{108EAABA-F120-4107-AA9E-3AAE333B0838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{108EAABA-F120-4107-AA9E-3AAE333B0838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1250E4A6-15C1-4FEC-93AF-91BECA26D4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1250E4A6-15C1-4FEC-93AF-91BECA26D4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1250E4A6-15C1-4FEC-93AF-91BECA26D4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1250E4A6-15C1-4FEC-93AF-91BECA26D4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A76C5169-C1B7-4E85-875F-184580B79325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A76C5169-C1B7-4E85-875F-184580B79325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A76C5169-C1B7-4E85-875F-184580B79325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A76C5169-C1B7-4E85-875F-184580B79325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

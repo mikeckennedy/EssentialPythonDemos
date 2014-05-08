@@ -1,0 +1,5 @@
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\client2\bin\Debug\client2.exe.config
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\client2\bin\Debug\client2.exe
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\client2\bin\Debug\client2.pdb
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\client2\obj\Debug\client2.exe
+D:\temp\python\08_SoapServices\Server\dotNetSoapServer\client2\obj\Debug\client2.pdb
