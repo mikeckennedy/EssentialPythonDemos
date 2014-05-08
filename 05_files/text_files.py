@@ -13,8 +13,7 @@ def parse_by_line(fin, header):
             for index, val in enumerate(cols):
                 d[header[index]] = val
             yield d
-
-
+  
 def run():
     #root_folder = os.path.dirname(__file__)
     root_folder = os.path.abspath('.')
