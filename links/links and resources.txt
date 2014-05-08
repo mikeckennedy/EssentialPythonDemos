@@ -1,0 +1,6 @@
+Here are some links you might find useful from things we discussed from class.
+
+
+
+Named Windows Mutex for cross process coordination:
+http://code.activestate.com/recipes/577794-win32-named-mutex-class-for-system-wide-mutex/
