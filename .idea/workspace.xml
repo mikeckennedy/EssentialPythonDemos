@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f46e0ccb-3292-4c87-b715-d46023f3c297" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" afterPath="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_Testing/app.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/14_Testing/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/epython-demos.iml" afterPath="$PROJECT_DIR$/.idea/epython-demos.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="epython-demos.iws" />
@@ -18,6 +21,7 @@
     <SUITE FILE_PATH="coverage/epython-demos$program__1_.coverage" NAME="program (1) Coverage Results" MODIFIED="1399504734277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/_05files" />
     <SUITE FILE_PATH="coverage/epython-demos$cls.coverage" NAME="cls Coverage Results" MODIFIED="1399494395295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Func_and_Class" />
     <SUITE FILE_PATH="coverage/epython-demos$nums_and_colls.coverage" NAME="nums_and_colls Coverage Results" MODIFIED="1399491949331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Language_Basic" />
+    <SUITE FILE_PATH="coverage/epython-demos$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1399675532922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/14_Testing" />
     <SUITE FILE_PATH="coverage/epython-demos$program__2_.coverage" NAME="program (2) Coverage Results" MODIFIED="1399510417166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_PyLint" />
     <SUITE FILE_PATH="coverage/epython-demos$fun_funca.coverage" NAME="fun_funca Coverage Results" MODIFIED="1399493326584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Func_and_Class" />
     <SUITE FILE_PATH="coverage/epython-demos$program.coverage" NAME="program Coverage Results" MODIFIED="1399673459773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_SQL_Alchemy_ORM" />
@@ -39,21 +43,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="data.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py">
+      <file leaf-file-name="app.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/14_Testing/app.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="18" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="1782">
+            <state line="21" column="53" selection-start="532" selection-end="532" vertical-scroll-proportion="0.45658264" vertical-offset="299" max-vertical-offset="1144">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="program.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py">
+      <file leaf-file-name="tests.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/14_Testing/tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="121" column="23" selection-start="2912" selection-end="2912" vertical-scroll-proportion="0.48175183" vertical-offset="2398" max-vertical-offset="3498">
+            <state line="54" column="25" selection-start="1241" selection-end="1241" vertical-scroll-proportion="-11.038462" vertical-offset="901" max-vertical-offset="1650">
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -88,6 +92,8 @@
         <option value="$PROJECT_DIR$/11_Sql_Alchemy_Core/program.py" />
         <option value="$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py" />
         <option value="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" />
+        <option value="$PROJECT_DIR$/14_Testing/tests.py" />
+        <option value="$PROJECT_DIR$/14_Testing/app.py" />
       </list>
     </option>
   </component>
@@ -150,7 +156,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="12_SQL_Alchemy_ORM" />
+              <option name="myItemId" value="14_Testing" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -159,7 +165,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../courseware/essential-python" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/trash" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="preferences.pluginManager" />
@@ -185,7 +191,7 @@
       <recent name="$PROJECT_DIR$/01_Language_Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.program">
+  <component name="RunManager" selected="Python tests.Unittests in tests">
     <configuration default="false" name="program (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -200,25 +206,6 @@
       <module name="epython-demos" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06_PyLint/program.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="sample_27" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/01_Language_Basic" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="epython-demos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/01_Language_Basic/sample_27.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -278,6 +265,33 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in tests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/14_Testing" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="epython-demos" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/14_Testing/tests.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <RunnerSettings RunnerId="PythonCover" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonCover" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
@@ -533,18 +547,18 @@
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.nums_and_colls" />
       <item index="1" class="java.lang.String" itemvalue="Python.program (2)" />
-      <item index="2" class="java.lang.String" itemvalue="Python.sample_27" />
-      <item index="3" class="java.lang.String" itemvalue="Python.program (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.data" />
-      <item index="5" class="java.lang.String" itemvalue="Python.program" />
+      <item index="2" class="java.lang.String" itemvalue="Python.program (3)" />
+      <item index="3" class="java.lang.String" itemvalue="Python.data" />
+      <item index="4" class="java.lang.String" itemvalue="Python.program" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in tests" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.program" />
-        <item index="1" class="java.lang.String" itemvalue="Python.data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.program (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.program (2)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.sample_27" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in tests" />
+        <item index="1" class="java.lang.String" itemvalue="Python.program" />
+        <item index="2" class="java.lang.String" itemvalue="Python.data" />
+        <item index="3" class="java.lang.String" itemvalue="Python.program (3)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.program (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -584,7 +598,11 @@
       <created>1399670236702</created>
       <updated>1399670236702</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="reverse engineer db.">
+      <created>1399673477560</created>
+      <updated>1399673477560</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -593,21 +611,22 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30452344" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39900663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4089404" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15508886" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39900663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4089404" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21311475" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.47260273" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="122" width="1080" height="496" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -650,7 +669,8 @@
     <MESSAGE value="this is the pylint demo code." />
     <MESSAGE value="SQL DBAPI example" />
     <MESSAGE value="ORM example" />
-    <option name="LAST_COMMIT_MESSAGE" value="ORM example" />
+    <MESSAGE value="reverse engineer db." />
+    <option name="LAST_COMMIT_MESSAGE" value="reverse engineer db." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -803,13 +823,6 @@
         <state line="7" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.21875" vertical-offset="0" max-vertical-offset="704" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="18" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="1782">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="dbDummy://dbtable:/b1b6c134/dcdec634-9282-428d-9bbf-46430e4ed2e0/..Author">
       <provider editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132" />
@@ -818,12 +831,35 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="18" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.8866279" vertical-offset="817" max-vertical-offset="1716">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="121" column="23" selection-start="2912" selection-end="2912" vertical-scroll-proportion="0.48175183" vertical-offset="2398" max-vertical-offset="3498">
+        <state line="121" column="23" selection-start="2912" selection-end="2912" vertical-scroll-proportion="0.7394958" vertical-offset="2398" max-vertical-offset="3498">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_Testing/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="25" selection-start="1241" selection-end="1241" vertical-scroll-proportion="-11.038462" vertical-offset="901" max-vertical-offset="1650">
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/14_Testing/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="53" selection-start="532" selection-end="532" vertical-scroll-proportion="0.45658264" vertical-offset="299" max-vertical-offset="1144">
+          <folding />
         </state>
       </provider>
     </entry>

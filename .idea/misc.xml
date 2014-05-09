@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExportToHTMLSettings">
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$USER_HOME$/Desktop/trash" />
+  </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.0 (/usr/local/bin/python3.4)" project-jdk-type="Python SDK" />
 </project>
 
