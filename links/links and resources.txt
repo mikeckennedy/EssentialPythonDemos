@@ -1,6 +1,13 @@
 Here are some links you might find useful from things we discussed from class.
 
-
-
 Named Windows Mutex for cross process coordination:
 http://code.activestate.com/recipes/577794-win32-named-mutex-class-for-system-wide-mutex/
+
+Docker video:
+https://www.youtube.com/watch?v=Q5POuMHxW-0
+
+Install and configure nginx + pyramid + waitress on Ubuntu
+http://akbarahmed.com/tag/nginx/
+
+Video: Building beautiful websites with Bootstrap: A case study
+http://www.develop.com/webcasts/watch/5260173ad588bf08f82ac92f/building-beautiful-websites-with-bootstrap-a-case-study
