@@ -29,10 +29,8 @@
       <file leaf-file-name="posts.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_app/controllers/posts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="17" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1122">
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state line="29" column="17" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="1122">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,9 +39,7 @@
         <entry file="file://$PROJECT_DIR$/blog_app/controllers/api.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="25" column="12" selection-start="787" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="321" max-vertical-offset="968">
-              <folding>
-                <element signature="e#0#23#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,7 +47,7 @@
       <file leaf-file-name="program.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/client/program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="255" selection-end="283" vertical-scroll-proportion="0.5714286" vertical-offset="44" max-vertical-offset="748">
+            <state line="13" column="5" selection-start="227" selection-end="227" vertical-scroll-proportion="0.35572138" vertical-offset="0" max-vertical-offset="804">
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -62,7 +58,7 @@
       <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../../../../environments/web_env_may_2014/lib/python3.4/site-packages/pyramid_handlers/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="0" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="1034" max-vertical-offset="4774">
+            <state line="58" column="0" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="1276" max-vertical-offset="4862">
               <folding />
             </state>
           </provider>
@@ -80,10 +76,8 @@
       <file leaf-file-name="__init__.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_app/controllers/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="57" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
-              <folding>
-                <element signature="e#0#50#0" expanded="true" />
-              </folding>
+            <state line="4" column="57" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="220">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,7 +85,7 @@
       <file leaf-file-name="create.pt" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_app/templates/blog/create.pt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="4" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="814" max-vertical-offset="2222">
+            <state line="52" column="4" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="2222">
               <folding />
             </state>
           </provider>
@@ -100,7 +94,7 @@
       <file leaf-file-name="base.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/blog_app/controllers/base.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="20" selection-start="8" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="484">
+            <state line="2" column="20" selection-start="8" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="484">
               <folding />
             </state>
           </provider>
@@ -110,9 +104,7 @@
         <entry file="file://$PROJECT_DIR$/blog_app/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
             <state line="17" column="89" selection-start="715" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="792">
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -157,8 +149,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -186,6 +178,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -252,7 +245,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -384,6 +376,9 @@
       <option name="CONFIGURATION_FILE" value="" />
       <method />
     </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
     <configuration default="true" type="tests" factoryName="Unittests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -405,9 +400,6 @@
       <option name="PUREUNITTEST" value="true" />
       <option name="PARAMS" value="" />
       <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
     <configuration default="true" type="tests" factoryName="Doctests">
@@ -511,7 +503,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -519,11 +511,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25679544" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32876712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3282532" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -551,6 +543,78 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/blog_app/controllers/posts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="17" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="638" max-vertical-offset="1122">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/controllers/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="12" selection-start="787" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="321" max-vertical-offset="968">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="44" selection-start="255" selection-end="283" vertical-scroll-proportion="0.0" vertical-offset="66" max-vertical-offset="748">
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../environments/web_env_may_2014/lib/python3.4/site-packages/pyramid_handlers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="0" selection-start="1958" selection-end="1958" vertical-scroll-proportion="0.0" vertical-offset="1276" max-vertical-offset="4862">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/data/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="27" selection-start="27" selection-end="27" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/controllers/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="57" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="88" max-vertical-offset="220">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/templates/blog/create.pt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="4" selection-start="2023" selection-end="2023" vertical-scroll-proportion="0.0" vertical-offset="1144" max-vertical-offset="2222">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/controllers/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="20" selection-start="8" selection-end="22" vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="484">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="89" selection-start="715" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="792">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog_app/data/data_layer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="5" selection-start="453" selection-end="453" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="616">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="21" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="1078">
@@ -560,24 +624,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/controllers/home.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="352">
-          <folding />
-        </state>
+        <state line="5" column="21" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="110" max-vertical-offset="352" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="440">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" vertical-offset="308" max-vertical-offset="440" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/controllers/posts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="55" selection-start="1387" selection-end="1387" vertical-scroll-proportion="0.0" vertical-offset="770" max-vertical-offset="1122">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -598,9 +656,7 @@
     <entry file="file://$PROJECT_DIR$/blog_app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="60" selection-start="669" selection-end="671" vertical-scroll-proportion="0.0" vertical-offset="101" max-vertical-offset="660">
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -623,9 +679,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/templates/blog/list.pt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="36" selection-start="1725" selection-end="1736" vertical-scroll-proportion="0.67346936" vertical-offset="660" max-vertical-offset="2046">
-          <folding />
-        </state>
+        <state line="42" column="36" selection-start="1725" selection-end="1736" vertical-scroll-proportion="0.67346936" vertical-offset="660" max-vertical-offset="2046" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/templates/home/index.pt">
@@ -656,16 +710,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../../../../environments/web_env_may_2014/lib/python3.4/site-packages/pyramid/util.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="529" column="0" selection-start="18187" selection-end="18187" vertical-scroll-proportion="0.56125355" vertical-offset="10760" max-vertical-offset="11462">
-          <folding />
-        </state>
+        <state line="529" column="0" selection-start="18187" selection-end="18187" vertical-scroll-proportion="0.56125355" vertical-offset="10760" max-vertical-offset="11462" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/controllers/home.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="21" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352">
-          <folding />
-        </state>
+        <state line="5" column="21" selection-start="124" selection-end="124" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="352" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/setup.py">
@@ -692,9 +742,7 @@
     <entry file="file://$PROJECT_DIR$/blog_app/controllers/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="57" selection-start="243" selection-end="243" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="220">
-          <folding>
-            <element signature="e#0#50#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -715,17 +763,13 @@
     <entry file="file://$PROJECT_DIR$/blog_app/controllers/posts.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="17" selection-start="981" selection-end="981" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="1122">
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
-          <folding />
-        </state>
+        <state line="14" column="0" selection-start="456" selection-end="456" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/data/data_layer.py">
@@ -738,24 +782,20 @@
     <entry file="file://$PROJECT_DIR$/blog_app/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="89" selection-start="715" selection-end="733" vertical-scroll-proportion="0.0" vertical-offset="224" max-vertical-offset="792">
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/blog_app/controllers/api.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="25" column="12" selection-start="787" selection-end="791" vertical-scroll-proportion="0.0" vertical-offset="321" max-vertical-offset="968">
-          <folding>
-            <element signature="e#0#23#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/client/program.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="255" selection-end="283" vertical-scroll-proportion="0.5714286" vertical-offset="44" max-vertical-offset="748">
+        <state line="13" column="5" selection-start="227" selection-end="227" vertical-scroll-proportion="0.35572138" vertical-offset="0" max-vertical-offset="804">
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>

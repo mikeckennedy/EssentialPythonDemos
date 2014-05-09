@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01_Language_Basic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/04_Func_and_Class" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10_SQL" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.4.0 (/usr/local/bin/python3.4)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
