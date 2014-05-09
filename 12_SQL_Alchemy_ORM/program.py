@@ -32,6 +32,13 @@ class Author(EntityBase):
     name = sqlalchemy.Column(sqlalchemy.String, nullable=False)
     books = sqlalchemy.orm.relationship("Book")
 
+
+
+
+
+
+
+
 print("Creating tables")
 EntityBase.metadata.create_all()
 
@@ -71,14 +78,13 @@ if not num_of_books:
 else:
     print("Data already there.")
 
-
 session = session_factory()
 print("Here are our books:")
 q = session.query(Book)
 for b in q[:2]:
     print(b.title, b.isbn, b.copies_sold, type(b))
 print()
-isbn = "23423749"#input("Which one do you want (ISBN PLEASE): ")
+isbn = "23423749"  #input("Which one do you want (ISBN PLEASE): ")
 
 book = session.query(Book).filter(Book.isbn == isbn).one()
 print("You mean: " + book.title + "?")
@@ -87,17 +93,15 @@ book.copies_sold += 1
 
 session.commit()
 
-
 session = session_factory()
 print("Books that have sold:")
-q = session.query(Book)\
-    .filter( Book.title.startswith("Second"))\
+q = session.query(Book) \
+    .filter(Book.title.startswith("Second")) \
     .order_by(Book.copies_sold.desc())
 
 for b in q:
     print(b.title, b.isbn, b.copies_sold, type(b))
 print()
-
 
 print("Author")
 session = session_factory()
@@ -108,6 +112,19 @@ for b in a.books:
     print(b)
 
 
+print("")
+print("Reversing the db...")
+print("")
+
+for table in EntityBase.metadata.tables.values():
+    print( """
+class %s(Base):
+    __tablename__ = %r\
+"""% (table.name, table.name) )
+    for c in table.columns:
+        #print(dir(c))
+        print("    {0} = sqlalchemy.Column(sqlalchemy.{1}, primary_key={2})".format(
+            c.__dict__['name'], c.type, c.primary_key))
 
 
 
@@ -115,11 +132,22 @@ for b in a.books:
 
 
 
-
-
-
-
-
+#
+# class Book(EntityBase):
+#     __tablename__ = 'Book'
+#
+#     id = sqlalchemy.Column(sqlalchemy.INTEGER, primary_key=True)
+#     title = sqlalchemy.Column(sqlalchemy.VARCHAR, primary_key=False)
+#     isbn = sqlalchemy.Column(sqlalchemy.VARCHAR, primary_key=False)
+#     copies_sold = sqlalchemy.Column(sqlalchemy.INTEGER, primary_key=False)
+#     published = sqlalchemy.Column(sqlalchemy.DATETIME, primary_key=False)
+#     author_id = sqlalchemy.Column(sqlalchemy.INTEGER, primary_key=False)
+#
+#
+# session = session_factory()
+# b = session.query(Book).filter(True)
+# for B2 in b:
+#     print(B2)
 
 
 
