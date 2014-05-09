@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="947210541">
+  <component name="DataSourceManagerImpl" format="xml" hash="276800541">
     <data-source source="LOCAL" name="sqllite_db" uuid="3995b2a9-1036-445a-ad2f-9463d845516d">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
       <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/10_SQL/data/sample_data.sqlite_db</jdbc-url>
+      <libraries />
+    </data-source>
+    <data-source source="LOCAL" name="data_orm" uuid="dcdec634-9282-428d-9bbf-46430e4ed2e0">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/12_SQL_Alchemy_ORM/data_orm.sqlite_db</jdbc-url>
       <libraries />
     </data-source>
   </component>

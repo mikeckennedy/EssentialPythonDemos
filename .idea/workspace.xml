@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f46e0ccb-3292-4c87-b715-d46023f3c297" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.ids" afterPath="$PROJECT_DIR$/.idea/dataSources.ids" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/epython-demos.iml" afterPath="$PROJECT_DIR$/.idea/epython-demos.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="epython-demos.iws" />
@@ -19,11 +24,12 @@
     <SUITE FILE_PATH="coverage/epython-demos$nums_and_colls.coverage" NAME="nums_and_colls Coverage Results" MODIFIED="1399491949331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Language_Basic" />
     <SUITE FILE_PATH="coverage/epython-demos$program__2_.coverage" NAME="program (2) Coverage Results" MODIFIED="1399510417166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/06_PyLint" />
     <SUITE FILE_PATH="coverage/epython-demos$fun_funca.coverage" NAME="fun_funca Coverage Results" MODIFIED="1399493326584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/04_Func_and_Class" />
-    <SUITE FILE_PATH="coverage/epython-demos$program.coverage" NAME="program Coverage Results" MODIFIED="1399499367882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/files" />
+    <SUITE FILE_PATH="coverage/epython-demos$program.coverage" NAME="program Coverage Results" MODIFIED="1399669666895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12_SQL_Alchemy_ORM" />
     <SUITE FILE_PATH="coverage/epython-demos$other.coverage" NAME="other Coverage Results" MODIFIED="1399484524257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Language_Basic" />
-    <SUITE FILE_PATH="coverage/epython-demos$program__3_.coverage" NAME="program (3) Coverage Results" MODIFIED="1399655464665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_SQL" />
+    <SUITE FILE_PATH="coverage/epython-demos$program__3_.coverage" NAME="program (3) Coverage Results" MODIFIED="1399657565109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_SQL" />
     <SUITE FILE_PATH="coverage/epython-demos$basic_imports.coverage" NAME="basic_imports Coverage Results" MODIFIED="1399485704301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Language_Basic" />
     <SUITE FILE_PATH="coverage/epython-demos$sample_27.coverage" NAME="sample_27 Coverage Results" MODIFIED="1399506732524" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/01_Language_Basic" />
+    <SUITE FILE_PATH="coverage/epython-demos$data.coverage" NAME="data Coverage Results" MODIFIED="1399663409639" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11_Sql_Alchemy_Core" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -37,37 +43,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="program.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/10_SQL/program.py">
+      <file leaf-file-name="data.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308">
-              <folding />
+            <state line="54" column="18" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="1782">
+              <folding>
+                <element signature="e#51#60#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="db.py" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/10_SQL/db.py">
+      <file leaf-file-name="program.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="38" selection-start="448" selection-end="448" vertical-scroll-proportion="0.521197" vertical-offset="0" max-vertical-offset="1694">
+            <state line="94" column="37" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.7658643" vertical-offset="1718" max-vertical-offset="2882">
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
-                <marker date="1399655464000" expanded="true" signature="287:308" placeholder="create table..Authors..." />
-                <marker date="1399655464000" expanded="true" signature="287:378" placeholder="create table..Authors..." />
-                <marker date="1399655464000" expanded="true" signature="426:445" placeholder="create table..Books..." />
-                <marker date="1399655464000" expanded="true" signature="426:574" placeholder="create table..Books..." />
-                <marker date="1399655464000" expanded="true" signature="426:605" placeholder="create table..Books..." />
-                <marker date="1399655464000" expanded="true" signature="772:798" placeholder="SELECT COUNT..Books..." />
-                <marker date="1399655464000" expanded="true" signature="939:979" placeholder="INSERT INTO ..." />
-                <marker date="1399655464000" expanded="true" signature="939:1008" placeholder="INSERT INTO ..." />
-                <marker date="1399655464000" expanded="true" signature="939:1039" placeholder="INSERT INTO ..." />
-                <marker date="1399655464000" expanded="true" signature="1076:1191" placeholder="INSERT INTO ..." />
-                <marker date="1399655464000" expanded="true" signature="1261:1311" placeholder="SELECT * FRO..Books..." />
-                <marker date="1399655464000" expanded="true" signature="1261:1310" placeholder="SELECT * FRO..Books..." />
-                <marker date="1399655464000" expanded="true" signature="1261:1311" placeholder="SELECT id, a..Books..." />
-                <marker date="1399655464000" expanded="true" signature="1261:1311" placeholder="SELECT id, a..Books..." />
-                <marker date="1399655464000" expanded="true" signature="1261:1312" placeholder="SELECT id, a..Books..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Author" pinned="false" current="false" current-in-tab="false">
+        <entry file="dbDummy://dbtable:/b1b6c134/dcdec634-9282-428d-9bbf-46430e4ed2e0/..Author">
+          <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -98,12 +103,15 @@
         <option value="$PROJECT_DIR$/01_Language_Basic/sample_27.py" />
         <option value="$PROJECT_DIR$/10_SQL/program.py" />
         <option value="$PROJECT_DIR$/10_SQL/db.py" />
+        <option value="$PROJECT_DIR$/11_Sql_Alchemy_Core/program.py" />
+        <option value="$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py" />
+        <option value="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -131,6 +139,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -159,49 +168,12 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="10_SQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epython-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epython-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="10_SQL" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="data" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epython-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="epython-demos" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="08_Cross_Process_Coordination" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cross_process_example" />
+              <option name="myItemId" value="12_SQL_Alchemy_ORM" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,45 +203,7 @@
       <recent name="$PROJECT_DIR$/01_Language_Basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.program (3)">
-    <configuration default="false" name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="epython-demos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/files/program.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="program (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_05files" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="epython-demos" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_05files/program.py" />
-      <option name="PARAMETERS" value="" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.program">
     <configuration default="false" name="program (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -322,6 +256,44 @@
       <module name="epython-demos" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_SQL/program.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11_Sql_Alchemy_Core" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="epython-demos" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py" />
+      <option name="PARAMETERS" value="" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/12_SQL_Alchemy_ORM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="epython-demos" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py" />
       <option name="PARAMETERS" value="" />
       <RunnerSettings RunnerId="PythonRunner" />
       <ConfigurationWrapper RunnerId="PythonRunner" />
@@ -578,19 +550,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Python.nums_and_colls" />
-      <item index="1" class="java.lang.String" itemvalue="Python.program" />
-      <item index="2" class="java.lang.String" itemvalue="Python.program (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.program (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Python.sample_27" />
-      <item index="5" class="java.lang.String" itemvalue="Python.program (3)" />
+      <item index="1" class="java.lang.String" itemvalue="Python.program (2)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.sample_27" />
+      <item index="3" class="java.lang.String" itemvalue="Python.program (3)" />
+      <item index="4" class="java.lang.String" itemvalue="Python.data" />
+      <item index="5" class="java.lang.String" itemvalue="Python.program" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.program (3)" />
-        <item index="1" class="java.lang.String" itemvalue="Python.program (2)" />
-        <item index="2" class="java.lang.String" itemvalue="Python.sample_27" />
-        <item index="3" class="java.lang.String" itemvalue="Python.program (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Python.program" />
+        <item index="0" class="java.lang.String" itemvalue="Python.program" />
+        <item index="1" class="java.lang.String" itemvalue="Python.data" />
+        <item index="2" class="java.lang.String" itemvalue="Python.program (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python.program (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python.sample_27" />
       </list>
     </recent_temporary>
   </component>
@@ -630,29 +602,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26967096" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30452344" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13376252" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15266559" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39900663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4089404" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35903615" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33561644" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="122" width="1080" height="496" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="122" width="1080" height="496" />
@@ -672,9 +644,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16074313" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4089404" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -697,6 +669,35 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/10_SQL/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_SQL/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="38" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="22" max-vertical-offset="1694">
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Authors..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Authors..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT id, a..Books..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/01_Language_Basic/other.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="15" selection-start="137" selection-end="137" vertical-scroll-proportion="0.0" vertical-offset="176" max-vertical-offset="660" />
@@ -805,33 +806,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/10_SQL/program.py">
+    <entry file="dbDummy://db-console:/b1b6c134/3995b2a9-1036-445a-ad2f-9463d845516d/">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="308">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="506">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10_SQL/db.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="38" selection-start="448" selection-end="448" vertical-scroll-proportion="0.521197" vertical-offset="0" max-vertical-offset="1694">
+        <state line="20" column="17" selection-start="278" selection-end="466" vertical-scroll-proportion="0.59375" vertical-offset="22" max-vertical-offset="1694">
+          <folding>
+            <element signature="e#0#9#0" expanded="false" />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Authors..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Authors..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="create table..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT COUNT..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..Books..." />
+            <marker date="1399655464000" expanded="true" signature="-1:-1" placeholder="SELECT id, a..Books..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/10_SQL/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="26" selection-start="176" selection-end="176" vertical-scroll-proportion="0.21875" vertical-offset="0" max-vertical-offset="704">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11_Sql_Alchemy_Core/data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="18" selection-start="1554" selection-end="1554" vertical-scroll-proportion="0.0" vertical-offset="883" max-vertical-offset="1782">
+          <folding>
+            <element signature="e#51#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/b1b6c134/dcdec634-9282-428d-9bbf-46430e4ed2e0/..Author">
+      <provider selected="true" editor-type-id="com.intellij.persistence.database.editor.DatabaseTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="132">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/12_SQL_Alchemy_ORM/program.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="94" column="37" selection-start="2461" selection-end="2461" vertical-scroll-proportion="0.7658643" vertical-offset="1718" max-vertical-offset="2882">
           <folding>
             <element signature="e#0#9#0" expanded="true" />
-            <marker date="1399655464000" expanded="true" signature="287:308" placeholder="create table..Authors..." />
-            <marker date="1399655464000" expanded="true" signature="287:378" placeholder="create table..Authors..." />
-            <marker date="1399655464000" expanded="true" signature="426:445" placeholder="create table..Books..." />
-            <marker date="1399655464000" expanded="true" signature="426:574" placeholder="create table..Books..." />
-            <marker date="1399655464000" expanded="true" signature="426:605" placeholder="create table..Books..." />
-            <marker date="1399655464000" expanded="true" signature="772:798" placeholder="SELECT COUNT..Books..." />
-            <marker date="1399655464000" expanded="true" signature="939:979" placeholder="INSERT INTO ..." />
-            <marker date="1399655464000" expanded="true" signature="939:1008" placeholder="INSERT INTO ..." />
-            <marker date="1399655464000" expanded="true" signature="939:1039" placeholder="INSERT INTO ..." />
-            <marker date="1399655464000" expanded="true" signature="1076:1191" placeholder="INSERT INTO ..." />
-            <marker date="1399655464000" expanded="true" signature="1261:1311" placeholder="SELECT * FRO..Books..." />
-            <marker date="1399655464000" expanded="true" signature="1261:1310" placeholder="SELECT * FRO..Books..." />
-            <marker date="1399655464000" expanded="true" signature="1261:1311" placeholder="SELECT id, a..Books..." />
-            <marker date="1399655464000" expanded="true" signature="1261:1311" placeholder="SELECT id, a..Books..." />
-            <marker date="1399655464000" expanded="true" signature="1261:1312" placeholder="SELECT id, a..Books..." />
           </folding>
         </state>
       </provider>
