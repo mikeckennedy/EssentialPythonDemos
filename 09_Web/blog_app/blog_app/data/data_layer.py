@@ -5,7 +5,7 @@ class Post:
     def __init__(self, post_id, title, published, content):
         self.post_id = post_id
         self.content = content
-        self.published = published
+        self.published = str(published)
         self.title = title
 
 class DB():

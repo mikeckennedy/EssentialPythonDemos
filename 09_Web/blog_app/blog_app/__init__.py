@@ -1,7 +1,9 @@
 from pyramid.config import Configurator
-from blog_app.controllers.home import HomeController
-from blog_app.controllers.posts import PostController
-
+from blog_app.controllers import HomeController
+from blog_app.controllers import PostController
+from blog_app.controllers import BaseController
+from blog_app.controllers import PostsAPIController
+import blog_app.controllers
 
 def main(global_config, **settings):
     """ This function returns a Pyramid WSGI application.
@@ -12,6 +14,10 @@ def main(global_config, **settings):
     config.add_static_view('static', 'static', cache_max_age=3600)
     #config.add_route('home', '/')
     #config.add_route('home_blog_list', '/blog')
+
+    config.add_handler('api_data', '/api/posts/{action}/{id}', handler=PostsAPIController)
+    config.add_handler('api_no_data', '/api/posts/{action}', handler=PostsAPIController)
+
 
     config.add_handler('home_index', '/', handler=HomeController, action="index")
 
