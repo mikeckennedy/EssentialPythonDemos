@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/14_Testing" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13_Packaging/Calculator" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/13_Packaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_Web/blog_app" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.4.0 (/usr/local/bin/python3.4)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
