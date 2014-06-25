@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f46e0ccb-3292-4c87-b715-d46023f3c297" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/epython-demos.iml" afterPath="$PROJECT_DIR$/.idea/epython-demos.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_Web/blog_app/blog_app/controllers/home.py" afterPath="$PROJECT_DIR$/09_Web/blog_app/blog_app/controllers/home.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_Web/blog_app/blog_app/templates/home/index.pt" afterPath="$PROJECT_DIR$/09_Web/blog_app/blog_app/templates/home/index.pt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_Web/blog_app/blog_app/controllers/posts.py" afterPath="$PROJECT_DIR$/09_Web/blog_app/blog_app/controllers/posts.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="epython-demos.iws" />
@@ -89,7 +85,7 @@
       <file leaf-file-name="index.pt" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/09_Web/blog_app/blog_app/templates/home/index.pt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="26" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.4" vertical-offset="494" max-vertical-offset="1606">
+            <state line="41" column="25" selection-start="1885" selection-end="1885" vertical-scroll-proportion="0.53825855" vertical-offset="494" max-vertical-offset="1606">
               <folding />
             </state>
           </provider>
@@ -877,13 +873,18 @@
       <created>1399675973540</created>
       <updated>1399675973540</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="web app shows home page.">
+      <created>1400751721633</created>
+      <updated>1400751721633</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -893,14 +894,13 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39900663" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4089404" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41466346" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41566265" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3294702" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="100" y="122" width="1080" height="496" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32781458" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -946,7 +946,8 @@
     <MESSAGE value="ORM example" />
     <MESSAGE value="reverse engineer db." />
     <MESSAGE value="unit tests." />
-    <option name="LAST_COMMIT_MESSAGE" value="unit tests." />
+    <MESSAGE value="web app shows home page." />
+    <option name="LAST_COMMIT_MESSAGE" value="web app shows home page." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1289,7 +1290,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/09_Web/blog_app/blog_app/templates/home/index.pt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="26" selection-start="1198" selection-end="1198" vertical-scroll-proportion="0.4" vertical-offset="494" max-vertical-offset="1606">
+        <state line="41" column="25" selection-start="1885" selection-end="1885" vertical-scroll-proportion="0.53825855" vertical-offset="494" max-vertical-offset="1606">
           <folding />
         </state>
       </provider>
