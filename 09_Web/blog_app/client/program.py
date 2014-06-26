@@ -5,6 +5,7 @@ import requests
 def main():
     url = 'http://0.0.0.0:6543/api/posts/all_posts'
     resp = requests.get(url)
+    print(type(resp))
 
     data = resp.json()
     #print(data, type(data))
