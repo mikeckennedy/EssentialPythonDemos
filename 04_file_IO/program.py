@@ -41,7 +41,8 @@ def read_xml():
         print("{0} - {1}".format(title, link))
 
 
-def read_json():
+
+def load_elinq_course_details_from_json():
     file = os.path.abspath(os.path.join('data', 'elinq_course.json'))
     file_out = os.path.abspath(os.path.join('data', 'elinq_course_out.json'))
     print("Loading xml from {0}".format(file))
@@ -75,7 +76,7 @@ def main():
     read_xml()
     print()
     print("-------------- JSON -------------- ")
-    read_json()
+    load_elinq_course_details_from_json()
     print()
 
 
