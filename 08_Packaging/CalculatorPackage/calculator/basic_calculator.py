@@ -1,0 +1,3 @@
+
+class BasicCalculator(object):
+    pass

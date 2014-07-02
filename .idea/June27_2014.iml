@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/01_Intro_to_python" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/05_IteratorZen" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07_UnitTesting" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/08_Packaging" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
