@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/05_IteratorZen" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/07_UnitTesting" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/08_Packaging" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/09_web/pyramid_web_app" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />

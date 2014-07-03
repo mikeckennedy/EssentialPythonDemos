@@ -1,0 +1,19 @@
+HTTP:
+
+
+GET -> safe, read-only, cacheable and idempotent
+GET http://develop.com/api/courses // show all courses
+
+POST -> not safe, changes data, not cachable, not idempotent
+POST http://develop.com/api/courses DATA: {new course...} // create a course
+
+PUT -> http://develop.com/api/courses/7 DATA: {changes to course...} // update a course
+
+DELETE
+
+
+----------------
+SOAP
+
+everything runs over POST to the same URL
+header value for action deterines the real method or resource
