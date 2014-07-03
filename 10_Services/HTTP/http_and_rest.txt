@@ -1,7 +1,7 @@
 HTTP:
 
 
-GET -> safe, read-only, cacheable and idempotent
+GET -> safe, read-only, cachable and idempotent
 GET http://develop.com/api/courses // show all courses
 
 POST -> not safe, changes data, not cachable, not idempotent
@@ -16,4 +16,4 @@ DELETE
 SOAP
 
 everything runs over POST to the same URL
-header value for action deterines the real method or resource
+header value for action determines the real method or resource
