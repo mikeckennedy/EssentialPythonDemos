@@ -1,4 +1,4 @@
-name = "Michael"#input("Wat is your name? ")
+name = "Michael"  # input("Wat is your name? ")
 print("Hello there {0}".format(name))
 
 # This is where we check for our friend Jeff.
@@ -13,7 +13,7 @@ goodbye = "Cya Jeff" if name == "Jeff" else "It was nice to meet you"
 print(goodbye)
 
 for index, ch in enumerate(name):
-    print("{0}. {1}".format(index, ch) )
+    print("{0}. {1}".format(index, ch))
 
 for n in range(0, 20):
     print(n, end=",")
