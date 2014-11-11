@@ -1,4 +1,3 @@
-
 def create_greeter(name):
     has_seen = False
 
@@ -15,13 +14,14 @@ def create_greeter(name):
 
     return greeter_impl
 
+
 mgreeter = create_greeter("Michael")
 jgreeter = create_greeter("Jeff")
 
-mgreeter() # nice meet
-mgreeter() # hi again
-mgreeter()# hi again
-jgreeter()# nice to meet
+mgreeter()  # nice meet
+mgreeter()  # hi again
+mgreeter()  # hi again
+jgreeter()  # nice to meet
 mgreeter()
 jgreeter()
 
