@@ -5,6 +5,7 @@
       <sourceFolder url="file://$MODULE_DIR$/b_The_Python_Language" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/d_Functions" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/e_Classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/f_Error_Handling" isTestSource="false" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.4.2 (/Library/Frameworks/Python.framework/Versions/3.4/bin/python3.4)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
