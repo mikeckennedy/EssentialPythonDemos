@@ -13,6 +13,6 @@ class Repository(object):
 def cleanup_method():
     with Repository() as repository:
         print("work with repository")
-        raise TypeError("test")
+        #raise TypeError("test")
 
 cleanup_method()
