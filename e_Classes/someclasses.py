@@ -9,7 +9,7 @@ class Cat(object):
         self.friskiness = 20
         self.cat_type = "Basic cat"
 
-    @property:
+    @property
     def age(self):
         print("Getting age for {}".format(self.name))
         return self.__age
