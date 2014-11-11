@@ -26,3 +26,4 @@ Here are some links we discussed during class for safe keeping.
 * [Private, on-premise PyPI Server](https://github.com/pypiserver/pypiserver)
 * [PyCoder's Weekly](http://us4.campaign-archive2.com/?u=9735795484d2e4c204da82a29&id=a089b06ae4)
 
+*test*
