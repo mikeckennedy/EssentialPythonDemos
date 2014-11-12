@@ -28,3 +28,4 @@ Here are some links we discussed during class for safe keeping.
 * [Size of .NET vs Python Communities](http://blog.michaelckennedy.net/2014/02/21/ever-wonder-how-big-the-net-and-python-communities-are/)
 * [Vote for Python on Windows (NOW!)](https://windows.uservoice.com/forums/265757-windows-feature-suggestions/suggestions/6693586-ship-python-3-and-python-2-with-windows-10)
 * [Profiling in Python](https://stackoverflow.com/questions/110259/which-python-memory-profiler-is-recommended)
+* [Extending Python via C++/C](https://docs.python.org/3.4/extending/extending.html)
