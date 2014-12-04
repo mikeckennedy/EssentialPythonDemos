@@ -15,7 +15,7 @@ Cheers
 [@mkennedy](https://twitter.com/mkennedy) - 
 [http://blog.michaelckennedy.net/](http://blog.michaelckennedy.net/)
 
-Current Course outline
+Course Outline
 ----------------------
 
 The Python language has been emerging as a very powerful, flexible, and simple programming tool for building all manner of applications. Maybe you're one of the many developers looking get started with Python. If so, then this hands-on language course is just the thing for you.
