@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/mikeckennedy/EssentialPythonDemos/master/supporting_files/dmlog.png)
+[![Alt text](https://raw.githubusercontent.com/mikeckennedy/EssentialPythonDemos/master/supporting_files/dmlog.png)](https://develop.com)
 
 Essential Python Demos
 ===========
